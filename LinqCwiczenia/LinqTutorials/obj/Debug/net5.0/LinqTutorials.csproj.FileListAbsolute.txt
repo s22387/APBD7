@@ -1,0 +1,15 @@
+/Users/anreginevic/Desktop/APBD/APBD7/LinqCwiczenia/LinqTutorials/bin/Debug/net5.0/LinqTutorials
+/Users/anreginevic/Desktop/APBD/APBD7/LinqCwiczenia/LinqTutorials/bin/Debug/net5.0/LinqTutorials.deps.json
+/Users/anreginevic/Desktop/APBD/APBD7/LinqCwiczenia/LinqTutorials/bin/Debug/net5.0/LinqTutorials.runtimeconfig.json
+/Users/anreginevic/Desktop/APBD/APBD7/LinqCwiczenia/LinqTutorials/bin/Debug/net5.0/LinqTutorials.runtimeconfig.dev.json
+/Users/anreginevic/Desktop/APBD/APBD7/LinqCwiczenia/LinqTutorials/bin/Debug/net5.0/LinqTutorials.dll
+/Users/anreginevic/Desktop/APBD/APBD7/LinqCwiczenia/LinqTutorials/bin/Debug/net5.0/LinqTutorials.pdb
+/Users/anreginevic/Desktop/APBD/APBD7/LinqCwiczenia/LinqTutorials/obj/Debug/net5.0/LinqTutorials.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anreginevic/Desktop/APBD/APBD7/LinqCwiczenia/LinqTutorials/obj/Debug/net5.0/LinqTutorials.AssemblyInfoInputs.cache
+/Users/anreginevic/Desktop/APBD/APBD7/LinqCwiczenia/LinqTutorials/obj/Debug/net5.0/LinqTutorials.AssemblyInfo.cs
+/Users/anreginevic/Desktop/APBD/APBD7/LinqCwiczenia/LinqTutorials/obj/Debug/net5.0/LinqTutorials.csproj.CoreCompileInputs.cache
+/Users/anreginevic/Desktop/APBD/APBD7/LinqCwiczenia/LinqTutorials/obj/Debug/net5.0/LinqTutorials.dll
+/Users/anreginevic/Desktop/APBD/APBD7/LinqCwiczenia/LinqTutorials/obj/Debug/net5.0/refint/LinqTutorials.dll
+/Users/anreginevic/Desktop/APBD/APBD7/LinqCwiczenia/LinqTutorials/obj/Debug/net5.0/LinqTutorials.pdb
+/Users/anreginevic/Desktop/APBD/APBD7/LinqCwiczenia/LinqTutorials/obj/Debug/net5.0/LinqTutorials.genruntimeconfig.cache
+/Users/anreginevic/Desktop/APBD/APBD7/LinqCwiczenia/LinqTutorials/obj/Debug/net5.0/ref/LinqTutorials.dll
